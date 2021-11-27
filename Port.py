@@ -1,6 +1,6 @@
-print random
-print socket
-print threading
+import random
+import socket
+import threading
 
 print("__________________________")
 print("[✓]DDoS Tools By DogX")
